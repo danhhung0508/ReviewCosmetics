@@ -3,7 +3,8 @@ package com.example.reviewcosmetics;
 public class Brand {
     private String name;
     private String image;
-
+    private String abc;
+    
     public Brand() {}
 
     public Brand(String name, String image) {
