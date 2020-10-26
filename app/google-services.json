@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200745937055",
+    "firebase_url": "https://reviewcosmetics-c5f45.firebaseio.com",
+    "project_id": "reviewcosmetics-c5f45",
+    "storage_bucket": "reviewcosmetics-c5f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200745937055:android:83d465e7a1713b88109aaa",
+        "android_client_info": {
+          "package_name": "com.example.reviewcosmetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200745937055-merf949qocq2m67bf4l7fvbjro1vk2u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYVaXY9nBrGOn3UsZxFg_Ny0CzeJ8m-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200745937055-merf949qocq2m67bf4l7fvbjro1vk2u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
